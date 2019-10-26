@@ -99,14 +99,9 @@ Then, the result will contain as many lines as there is cycles. Each cycles cont
 
 ![No verbose](examples/img1.png)
 
-### Essential verbose
-
 ![Essential verbose](examples/img.png)
 
 ## Author
 
-* **Hugo Bouillot (hbouillo)**
+* **Lahcen Saidi (lsaidi)**
 
-## License
-
-This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details

@@ -95,11 +95,7 @@ Then, the result will contain as many lines as there is cycles. Each cycles cont
 
 ## Examples
 
-### No verbose
-
-![No verbose](examples/img1.png)
-
-![Essential verbose](examples/img.png)
+![Examples](examples/img.png)
 
 ## Author
 

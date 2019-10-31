@@ -95,7 +95,7 @@ Then, the result will contain as many lines as there is cycles. Each cycles cont
 
 ## Examples
 
-![Examples](examples/img0.png)
+![Examples](examples/img1.png)
 
 ## Author
 

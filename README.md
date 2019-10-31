@@ -3,7 +3,7 @@ PATH FINDER IN GRAPH WITH 3D VISUALIZER
 
 Lem-in project for 42 Khouribga.
 
-In brief, the project consists in running a certain amount of 'ants' in the fastest way possible in an 'anthill'. My implementation uses `edmonds karp's max-flow` pathfinding algorithm.
+In brief, the project consists in running a certain amount of 'ants' in the fastest way possible in an 'anthill'. My implementation uses `Edmonds karp's Max-flow` pathfinding algorithm.
 
 # Getting Started
 

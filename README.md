@@ -1,5 +1,5 @@
 # lem-in
-PATH FINDER IN GRAPH WITH 3D VISUALIZER
+Your ant colony must move from on point to another. How do you do it in the shortest time possible? This project will get you acquainted with graph traversal algorithms: your program will have to intelligently select paths and precise movements used by the ants
 
 Lem-in project for 42 Khouribga.
 
